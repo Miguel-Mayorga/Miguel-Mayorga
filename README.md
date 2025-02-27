@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/Q6Vxcty.jpeg" alt="Banner de Miguel Mayorga" width="100%">
 
-<a href="www.linkedin.com/in/miguel-angel-mayorga">
+<a href="https://www.linkedin.com/in/miguel-angel-mayorga/">
     <img src="https://cdn-icons-png.flaticon.com/512/3665/3665172.png" width="40" height="40" >
 </a>
 <a href="https://www.facebook.com/miguel.mayorga.10/">
