@@ -16,7 +16,8 @@
 </a>
 
 ## Sobre  mi 
-<div><p>Soy un apacionado programador con muchas gracias de APRENDER experiencia en HTML , CSS, Python Sql y JavaScript, me encanta aprender nuevas cosas y resolver problemas </p></div>    
+<div><p>Soy un apasionado programador con gran entusiasmo por aprender nuevas tecnologías y resolver problemas.  
+        Tengo experiencia en HTML, CSS, Python, SQL y JavaScript, y disfruto enfrentar nuevos desafíos en el mundo de la programación </p></div>    
 <h2>¿Que hago 🌟?</h2>
 <ul>
 <li>Fascinación por la innovación tecnológica y la formación constante en programación y desarrollo de programas informáticos.</li>
